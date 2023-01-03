@@ -1,2 +1,3 @@
 # terry
-A TypeScript web framework.
+
+Terry is a web framework currently being written in TypeScript.
